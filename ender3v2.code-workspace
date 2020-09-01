@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "prettier.disableLanguages": [
+      "C",
+      "Cpp",
+      "c",
+      "cpp"
+    ],
+    "editor.tabSize": 2,
+    "C_Cpp.formatting": "Disabled"
+  }
+}
