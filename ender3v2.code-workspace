@@ -5,13 +5,9 @@
     }
   ],
   "settings": {
-    "prettier.disableLanguages": [
-      "C",
-      "Cpp",
-      "c",
-      "cpp"
-    ],
+    "prettier.disableLanguages": ["C", "Cpp", "c", "cpp"],
     "editor.tabSize": 2,
+    "editor.fontSize": 13,
     "C_Cpp.formatting": "Disabled"
   }
 }
