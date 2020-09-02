@@ -8,6 +8,16 @@
     "prettier.disableLanguages": ["C", "Cpp", "c", "cpp"],
     "editor.tabSize": 2,
     "editor.fontSize": 13,
-    "C_Cpp.formatting": "Disabled"
+    "C_Cpp.formatting": "Disabled",
+    "cSpell.words": [
+      "creality",
+      "gpio",
+      "mcus",
+      "mosfet",
+      "mosfets",
+      "prusa",
+      "repetier",
+      "sanguinololu"
+    ]
   }
 }
